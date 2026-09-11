@@ -1,0 +1,27 @@
+/* styles.css */ 
+Unsafe water is a leading cause of disease and death throughout the world. 
+The World Health Organization (WHO) states that at least 1.7 billion 
+(or almost 1 in 4) people on our planet are drinking water each day contaminated by feces, and over half a million people are dying each year
+ from diarrheal diseases caused by contaminated water and inadequate sanitation and hygiene.
+  Many of these are young children – as they are especially vulnerable to the dangers of unsafe water.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+   font-size: 2em; /* sets the size of the header text*/
+   text-align: center; /* centers the header text */
+}
